@@ -238,7 +238,7 @@ See [LICENSE](LICENSE) for full text.
 ## Related Projects
 
 - **The Authentic Rebellion Framework**: [rebellion.musubiaccord.org](https://rebellion.musubiaccord.org)
-- **Sensus (Act I)**: [github.com/yargnad/sensus-app](https://github.com/yargnad/sensus-app)
+- **Sensus (Act I)**: [github.com/yargnad/Sensus](https://github.com/yargnad/Sensus)
 - **The Whetstone (Act II)**: [github.com/yargnad/The-Whetstone](https://github.com/yargnad/The-Whetstone)
 - **The Crystalizer (Interlude)**: [github.com/yargnad/The-Crystalizer](https://github.com/yargnad/The-Crystalizer) - Preserve AI conversations across platforms
 - **The Lyceum Network (Act IV)**: [github.com/yargnad/The-Lyceum](https://github.com/yargnad/The-Lyceum)
